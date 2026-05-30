@@ -1,6 +1,7 @@
 <div align="center">
 
-# Python Developer Career Path – Part 1: From Zero to Junior Developer
+# [Python Developer Career Path – Part 1](https://github.com/SoftDevAcademy/python-developer-career-path-part-1)
+# [From Zero to Junior Developer](https://github.com/SoftDevAcademy/python-developer-career-path-part-1)
 
 Developed and maintained by SoftDevAcademy
 
